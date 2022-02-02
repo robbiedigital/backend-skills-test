@@ -1,22 +1,22 @@
-Anna|true
-Annie|false
-Civic|true
-Kayak|true
-Levels|false
-Madam|true
-Mom|true
-Noon|true
-Racecar|true
-Radar|true
-Redder|true
-Refer|true
-Rotator|true
-Rotor|true
-Sagas|true
-Solos|true
-Stats|true
-Tenet|true
-Wow|true
-Was it a cat I saw?|true
-Eva, can I see bees in a cave?|true
-A man, a plan, a canal. Panama!|true
+Anna
+Annie
+Civic
+Kayak
+Levels
+Madam
+Mom
+Noon
+Racecar
+Radar
+Redder
+Refer
+Rotator
+Rotor
+Sagas
+Solos
+Stats
+Tenet
+Wow
+Was it a cat I saw?
+Eva, can I see bees in a cave?
+A man, a plan, a canal. Panama!
